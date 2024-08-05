@@ -54,6 +54,3 @@ Let’s connect and explore how we can make a difference together! 🌟
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/umar-7w4/)
 
 </p>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=umar-7w4&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Umar's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umar-7w4&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
