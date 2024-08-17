@@ -1,4 +1,4 @@
-### Hi, I'm Umar, a Software Engineer and a Passionate Teacher with a touch of humor. 😊
+### Hi, I'm Umar, a Software Engineer and a Passionate Educator with a touch of humor. 😊
 
 My journey with computers began in 4th grade when I first saw one at a friend's house. It felt like magic seeing it instantly display anything I asked for, sparking my curiosity about how it worked. My teacher’s advice to be good at math initially seemed like a bluff to push me to study harder. Little did I know, it was true! 📚
 
