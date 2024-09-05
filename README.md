@@ -1,19 +1,29 @@
-### Hi, I'm Umar, a Software Engineer and a Passionate Educator with a touch of humor. 😊
+# Hi, I'm Umar Mohammad 👋
 
-My journey with computers began in 4th grade when I first saw one at a friend's house. It felt like magic seeing it instantly display anything I asked for, sparking my curiosity about how it worked. My teacher’s advice to be good at math initially seemed like a bluff to push me to study harder. Little did I know, it was true! 📚
+👨‍💻 **Software Engineer** | 🎓 **Passionate Educator** | 😄 **A Touch of Humor**
 
-Now, as the first-generation software engineer in my family, I’ve built multiple software applications and pursued a bachelor's in CS with a full tuition ride. Currently, I support my master’s education by teaching, emphasizing the importance of math in programming, something my younger self struggled to understand. 👨‍🏫
+### About Me
 
-Some recent things 😎 I've done are:
-- Small-scale distributed file storage system in Java
-- An image classification model leveraging swarm intelligence
-- A secure multithreaded chat application
-- I also love solving problems on LeetCode and share my approaches on LinkedIn—check out my posts! 💻
-- Currently working on developing a distributed task scheduler.
+My journey with computers started in 4th grade when I first encountered one at a friend's house. It felt like magic seeing it instantly display anything I asked for, and that sparked my curiosity about how it all worked. My teacher’s advice to be good at math initially seemed like a bluff to make me study harder, but little did I know, it was the key to unlocking the world of programming! 📚
 
-When I'm not coding, I enjoy cooking Middle Eastern and Italian food with South Indian flavors and lifting weights to balance out my culinary indulgences. 🍝🏋️
+Fast forward to today, I’m the **first-generation software engineer** in my family. I’ve built multiple software applications, earned a **full-tuition scholarship** for my bachelor’s in CS, and now support my master’s education by teaching programming—emphasizing the importance of math, which my younger self struggled to appreciate. 👨‍🏫
 
-Let’s connect and explore how we can make a difference together! 🌟
+### Projects I Built
+
+When I didn’t land a summer internship, I took it as an opportunity to focus on building some projects I had been planning for a long time. Here are two of the major projects I completed:
+
+- **Distributed File System** – A small-scale distributed file storage system built in Java, simulating real-world systems like Hadoop’s HDFS.
+- **Distributed Task Scheduler** – A fault-tolerant and scalable system using Zookeeper for dynamic task assignment, ensuring reliability and recovery from worker failures.
+
+### Other Cool Stuff I’ve Done
+- 🧠 Built an **image classification model leveraging swarm intelligence**.
+- 🔒 Developed a **secure multithreaded chat application**.
+- 💻 I regularly solve problems on **LeetCode** and share my approaches on [LinkedIn](https://www.linkedin.com/in/umarmhd/)—feel free to check out my posts!
+
+### Outside of Work
+When I’m not coding, you’ll find me experimenting in the kitchen with **Middle Eastern and Italian dishes** mixed with **South Indian flavors**. To balance things out, I also enjoy **lifting weights** 🏋️.  
+
+Let’s connect and explore how we can make an impact together! 🌟
 
 ## Skills:
 
