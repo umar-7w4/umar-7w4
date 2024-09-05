@@ -9,7 +9,7 @@ Some recent things 😎 I've done are:
 - An image classification model leveraging swarm intelligence
 - A secure multithreaded chat application
 - I also love solving problems on LeetCode and share my approaches on LinkedIn—check out my posts! 💻
-- Currently working on a graph-based deep reinforcement learning model that predicts high-risk firms in a loan network.
+- Currently working on developing a distributed task scheduler.
 
 When I'm not coding, I enjoy cooking Middle Eastern and Italian food with South Indian flavors and lifting weights to balance out my culinary indulgences. 🍝🏋️
 
