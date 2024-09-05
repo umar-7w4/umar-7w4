@@ -8,7 +8,7 @@ My journey with computers started in 4th grade when I first encountered one at a
 
 Fast forward to today, I’m the **first-generation software engineer** in my family. I’ve built multiple software applications, earned a **full-tuition scholarship** for my bachelor’s in CS, and now support my master’s education by teaching programming—emphasizing the importance of math, which my younger self struggled to appreciate. 👨‍🏫
 
-### Projects I Built
+### Recent Projects I Built
 
 When I didn’t land a summer internship, I took it as an opportunity to focus on building some projects I had been planning for a long time. Here are two of the major projects I completed:
 
