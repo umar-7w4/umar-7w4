@@ -1,6 +1,6 @@
 # Hi, I'm Umar Mohammad 👋
 
-👨‍💻 **Software Engineer** | 🎓 **Passionate Educator** | 😄 **A Touch of Humor**
+👨‍💻 **Software Engineer** | 🎓 **Passionate Educator with a Touch of Humor** 😄
 
 ### About Me
 
@@ -12,8 +12,8 @@ Fast forward to today, I’m the **first-generation software engineer** in my fa
 
 When I didn’t land a summer internship, I took it as an opportunity to focus on building some projects I had been planning for a long time. Here are two of the major projects I completed:
 
-- **Distributed File System** – A small-scale distributed file storage system built in Java, simulating real-world systems like Hadoop’s HDFS.
-- **Distributed Task Scheduler** – A fault-tolerant and scalable system using Zookeeper for dynamic task assignment, ensuring reliability and recovery from worker failures.
+- [**Distributed File System**](https://github.com/umar-7w4/distributed-file-system) – A small-scale distributed file storage system built in Java, simulating real-world systems like Hadoop’s HDFS.
+- [**Distributed Task Scheduler**](https://github.com/umar-7w4/distributed-task-scheduler) – A fault-tolerant and scalable system using Zookeeper for dynamic task assignment, ensuring reliability and recovery from worker failures.
 
 ### Other Cool Stuff I’ve Done
 - 🧠 Built an **image classification model leveraging swarm intelligence**.
