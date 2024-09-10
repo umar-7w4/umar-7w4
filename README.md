@@ -55,6 +55,7 @@ Let’s connect and explore how we can make an impact together! 🌟
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)&nbsp;
 ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umar-7w4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
 
