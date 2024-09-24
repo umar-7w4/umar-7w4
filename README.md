@@ -56,6 +56,7 @@ Let’s connect and explore how we can make an impact together! 🌟
 ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
 
 #### Problem Solving
+![LeetCode Stats](https://leetcard.jacoblin.cool/umarmohd?theme=dark&font=Arapey&ext=contest)
 
 ## Connect with me:
 
