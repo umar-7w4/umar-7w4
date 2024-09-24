@@ -56,7 +56,7 @@ Let’s connect and explore how we can make an impact together! 🌟
 ![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
 
 #### Problem Solving
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/{umarmohd})
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/umarmohd)
 
 ## Connect with me:
 
