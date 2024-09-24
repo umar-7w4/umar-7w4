@@ -3,7 +3,7 @@
 👨‍💻 **Software Engineer** | 🎓 **Passionate Educator with a Touch of Humor** 😄 
 
 ### About Me
-
+ 
 My journey with computers started in 4th grade when I first encountered one at a friend's house. It felt like magic seeing it instantly display anything I asked for, and that sparked my curiosity about how it all worked. My teacher’s advice to be good at math initially seemed like a bluff to make me study harder, but little did I know, it was the key to unlocking the world of programming! 📚
 
 Fast forward to today, I’m the **first-generation software engineer** in my family. I’ve built multiple software applications, earned a **full-tuition scholarship** for my bachelor’s in CS, and now support my master’s education by teaching programming as **Graduate Teaching Assistant** emphasizing the importance of math, which my younger self struggled to appreciate. 👨‍🏫
