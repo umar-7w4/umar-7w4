@@ -1,5 +1,5 @@
 # Hi, I'm Umar Mohammad 👋
-
+ 
 👨‍💻 **Software Engineer** | 🎓 **Passionate Educator with a Touch of Humor** 😄 
 
 ### About Me
