@@ -8,6 +8,26 @@ My journey with computers started in 4th grade when I first encountered one at a
 
 Fast forward to today, I’m the **first-generation software engineer** in my family. I’ve built multiple software applications, earned a **full-tuition scholarship** for my bachelor’s in CS, and now support my master’s education by teaching programming as **Graduate Teaching Assistant** emphasizing the importance of math, which my younger self struggled to appreciate. 👨‍🏫
 
+### Currrent Project
+
+Currently building [**MockXpert**](https://github.com/umar-7w4/interview-marketplace) a full-stack interview preparation platform where candidates can schedule mock interviews with industry professionals. The backend, built using Spring Boot, provides secure authentication built with firebase, interview scheduling, Google Meet integration, and payment processing using Stripe.
+
+## **🔹 Tech Stack Used So Far**
+| **Technology** | **Usage** |
+|---------------|----------|
+| **Java (Spring Boot)** | Backend API & business logic |
+| **PostgreSQL** | Database storage |
+| **Spring Security & Firebase Auth** | Authentication & authorization |
+| **Google Calendar API** | Meeting scheduling |
+| **Stripe API** | Payment processing |
+| **AWS Personalize** | AI-driven interviewer matching (working on)|
+| **React & Tailwind CSS** | Frontend Development (coming soon) |
+| **Docker & Kubernetes** | Containerization (future deployment) |
+| **OpenAI GPT & Google Speech-to-Text** | AI-powered interview analysis (future integration) |
+
+📌 **Goal:** To help candidates gain confidence, refine their interview skills, and land their dream jobs through **expert-led, AI-enhanced mock interviews**. 🚀  
+
+
 ### Recent Projects I Built
 
 When I didn’t land a summer internship, I took it as an opportunity to focus on building some projects I had been planning for a long time. Here are two of the major projects I completed:
