@@ -10,7 +10,7 @@ Fast forward to today, I’m the **first-generation software engineer** in my fa
 
 ### Currrent Project
 
-Currently building [**MockXpert**](https://github.com/umar-7w4/interview-marketplace) a full-stack interview preparation platform where candidates can schedule mock interviews with industry professionals. The backend, built using Spring Boot, provides secure authentication built with firebase, interview scheduling, Google Meet integration, and payment processing using Stripe.
+Currently building [**MockXpert**](https://github.com/umar-7w4/interview-marketplace) a full-stack interview preparation platform where candidates can schedule mock interviews with industry professionals. The goal is to help candidates gain confidence, refine their interview skills, and land their dream jobs through **expert-led, AI-enhanced mock interviews**.
 
 ## **🔹 Tech Stack Used So Far**
 | **Technology** | **Usage** |
@@ -23,9 +23,7 @@ Currently building [**MockXpert**](https://github.com/umar-7w4/interview-marketp
 | **AWS Personalize** | AI-driven interviewer matching (working on)|
 | **React & Tailwind CSS** | Frontend Development (coming soon) |
 | **Docker & Kubernetes** | Containerization (future deployment) |
-| **OpenAI GPT & Google Speech-to-Text** | AI-powered interview analysis (future integration) |
-
-📌 **Goal:** To help candidates gain confidence, refine their interview skills, and land their dream jobs through **expert-led, AI-enhanced mock interviews**. 🚀  
+| **OpenAI GPT & Google Speech-to-Text** | AI-powered interview analysis (future integration) |  
 
 
 ### Recent Projects I Built
