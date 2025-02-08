@@ -10,7 +10,7 @@ Fast forward to today, I’m the **first-generation software engineer** in my fa
 
 ### Currrent Project
 
-Currently building [**MockXpert**](https://github.com/umar-7w4/interview-marketplace) a full-stack interview preparation platform where candidates can schedule mock interviews with industry professionals. The goal is to help candidates gain confidence, refine their interview skills, and land their dream jobs through **expert-led, AI-enhanced mock interviews**.
+Currently building [**MockXpert**](https://github.com/umar-7w4/interview-marketplace) a full-stack interview preparation platform where candidates can schedule mock interviews with industry professionals. The goal is to help candidates gain confidence, refine their interview skills, and land their dream jobs through **expert led, AI enhanced mock interviews**.
 
 ## **🔹 Tech Stack Used So Far**
 | **Technology** | **Usage** |
